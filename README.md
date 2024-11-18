@@ -1,3 +1,7 @@
+# Note
+https://purdue0-my.sharepoint.com/:f:/g/personal/pate2372_purdue_edu/EtOebKVmOI9LtpfPtWFRvb8B0eD4NcQ4ZlEg0KILXFLPgw?e=t7mJd4
+Link to onedrive for additional bigger size file.
+
 # Pedestrian Classification Using Deep Learning
 
 ## Description
@@ -28,7 +32,7 @@ While the current model performs well for single-image classification, there's p
 2. Inference.ipynb - User can give their own input to check how the classifier works
 3. Sample Inputs - This folder contains sample images which can be used as input to test the model
 4. Results - This folder contains the output the inferenence.ipynb genrates when the sample inputs are used.
-5. Models - This folder contains the trained models which can be loaded in the inferenece.ipynb
+5. Models (present in One Drive) - This folder contains the trained models which can be loaded in the inferenece.ipynb
 6. Demo - This video file shows how to use inference.ipynb on the kaggle to check the model
 
 ## Datasets
